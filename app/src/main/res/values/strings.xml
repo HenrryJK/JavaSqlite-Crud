@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">crudsqliteAlumnos</string>
+    <string name="hint_nombres">Nombres :</string>
+    <string name="hint_apellidos">Apellidos :</string>
+    <string name="hint_codigo">Codigo :</string>
+    <string name="btn_guardar">Guardar registro :</string>
+    <string name="menu_nuevo">Registrar un Alumno :</string>
+</resources>
