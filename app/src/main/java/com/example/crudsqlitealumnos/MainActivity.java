@@ -20,7 +20,6 @@ import com.example.crudsqlitealumnos.db.DbHelper;
 import com.example.crudsqlitealumnos.entidades.Alumnos;
 
 import java.util.ArrayList;
-
 public class MainActivity extends AppCompatActivity {
    /* Button btnCrear;*/
     RecyclerView listaAlumnos;
@@ -51,7 +50,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }); */
     }
-
     public boolean onCreateOptionsMenu(Menu menu){
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu_principal,menu);

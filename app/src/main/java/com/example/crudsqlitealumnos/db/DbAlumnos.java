@@ -13,8 +13,6 @@ import java.util.ArrayList;
 
 public class DbAlumnos extends DbHelper {
     Context context;
-
-
     public DbAlumnos(@Nullable Context context) {
         super(context);
 
